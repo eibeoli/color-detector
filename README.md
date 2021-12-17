@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+#cd into project, run 'npm start'
+
+HOW TO RUN IN DEV:
+FRONT END: YARN START
+BACK END: CD/API VENV/SCRIPTS/ACTIVATE FLASK RUN
+
+#TODO
+Displaying color palette
+Changing background to match most prominent color
+Occasionally the array will throw an index error, add refresh
