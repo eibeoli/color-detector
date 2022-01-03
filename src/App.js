@@ -87,7 +87,6 @@ function show_colors(src){
       <div class="Title"><i>Color Detector</i></div>
       <div id="Text">
         <ul>
-        <li>App made with React/Flask/Python, hosted on AWS</li>
         <li>Enter a word and an image will be generated, along with five prominent colors.</li>
         </ul>
       </div>

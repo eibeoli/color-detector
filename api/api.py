@@ -16,10 +16,6 @@ def get_link():
     image = run.run(query) #returns map thing
     for i in image:
         cache.add(i)
-    #serialize
-    #print(image['image'])
-    #print(image['colors'])
-    #print("this is working")
-    #json.dumps(list(arr.astype(float)))
+    print("this is working")
     testing = jsonify({"image":image}) #return map of colors + pic
     return testing
