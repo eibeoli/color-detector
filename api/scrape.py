@@ -3,7 +3,7 @@ from py3pin.Pinterest import Pinterest
 import requests
 
 #initialize api
-account = Pinterest(email='joanprice1038@gmail.com', password='Sunflower12', username='joanprice1038', cred_root='cred_root')
+account = Pinterest(email='', password='', username='', cred_root='cred_root')
 
 def search(query, max_items, scope='pins'): #return dict of imgs
     #valid_img = { ".jpg", ".png", ".gif"}
